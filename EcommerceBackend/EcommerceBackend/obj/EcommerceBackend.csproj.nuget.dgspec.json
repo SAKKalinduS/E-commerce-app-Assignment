@@ -1,29 +1,40 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kalindu\\Downloads\\E-commerce-app-Assignment\\EcommerceBackend\\EcommerceBackend\\EcommerceBackend.csproj": {}
+    "C:\\Users\\KanishkaMahanama\\source\\repos\\EcommerceBackend\\EcommerceBackend\\EcommerceBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kalindu\\Downloads\\E-commerce-app-Assignment\\EcommerceBackend\\EcommerceBackend\\EcommerceBackend.csproj": {
+    "C:\\Users\\KanishkaMahanama\\source\\repos\\EcommerceBackend\\EcommerceBackend\\EcommerceBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kalindu\\Downloads\\E-commerce-app-Assignment\\EcommerceBackend\\EcommerceBackend\\EcommerceBackend.csproj",
+        "projectUniqueName": "C:\\Users\\KanishkaMahanama\\source\\repos\\EcommerceBackend\\EcommerceBackend\\EcommerceBackend.csproj",
         "projectName": "EcommerceBackend",
-        "projectPath": "C:\\Users\\Kalindu\\Downloads\\E-commerce-app-Assignment\\EcommerceBackend\\EcommerceBackend\\EcommerceBackend.csproj",
-        "packagesPath": "C:\\Users\\Kalindu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kalindu\\Downloads\\E-commerce-app-Assignment\\EcommerceBackend\\EcommerceBackend\\obj\\",
+        "projectPath": "C:\\Users\\KanishkaMahanama\\source\\repos\\EcommerceBackend\\EcommerceBackend\\EcommerceBackend.csproj",
+        "packagesPath": "C:\\Users\\KanishkaMahanama\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KanishkaMahanama\\source\\repos\\EcommerceBackend\\EcommerceBackend\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Kalindu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\KanishkaMahanama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Users\\Public\\Documents\\Infragistics\\NuGet\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://spilsoftware.pkgs.visualstudio.com/_packaging/SharedLibraryFeed/nuget/v3/index.json": {},
+          "https://spilsoftware.pkgs.visualstudio.com/_packaging/ae29fbdd-eb2e-4d23-94c4-4420c7b6dca1/nuget/v2/": {}
         },
         "frameworks": {
           "net6.0": {
@@ -35,7 +46,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -69,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
