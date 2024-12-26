@@ -7,6 +7,7 @@ This is a simple e-commerce store application. Users can view products, add them
 To set up the project locally, follow these steps:
 
 1. **Running the Backend**
+    Replace backend Program.cs file with Program.cs in github repository. ( or add "CORS policy" to existing file )
     Open terminal and execute following commands:
          - cd EcommerceBackend
          - cd EcommerceBackend
